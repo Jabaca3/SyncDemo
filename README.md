@@ -18,7 +18,11 @@ sudo apt-get install python3-tk
 sudo apt-get install python3-pil python3-pil.imagetk
 ```
 
+To run GUI
 
+```sh
+python3 gui.py
+```
 
 
 Note: After running SYNC the image will change and the file for analyst 2 will change. Simply delete the contents IN analyst 2 and run again for demo purposes
