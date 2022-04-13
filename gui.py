@@ -2,7 +2,6 @@
 # Creating simple GUI to demostrate SYNC capabilities.
 
 import tkinter
-import PIL
 from tkinter import Label, Button, Tk
 from PIL import ImageTk, Image
 import webbrowser
