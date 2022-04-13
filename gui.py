@@ -81,7 +81,11 @@ my_gui = CAN_BUS_GUI(root)
 root.geometry("750x500")
 root.mainloop()
 
+with open(os.getcwd()+"/Database/Analyst2/node_info.txt", 'r+') as f:
+    f.truncate(0)
 
+with open(os.getcwd()+"/Database/Analyst2/Node_info.json", 'r+') as f:
+    f.truncate(0)
 
 
 
