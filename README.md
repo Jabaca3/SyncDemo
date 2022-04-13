@@ -23,7 +23,6 @@ To run GUI
 ```sh
 cd SyncDemo
 ```
-
 ```sh
 python3 gui.py
 ```
