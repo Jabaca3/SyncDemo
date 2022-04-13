@@ -1,4 +1,4 @@
-There will be a few librarys you need to install
+Install Librarys
 
 ```sh
 pip install pillow
