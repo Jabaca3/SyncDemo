@@ -21,6 +21,10 @@ sudo apt-get install python3-pil python3-pil.imagetk
 To run GUI
 
 ```sh
+cd SyncDemo
+```
+
+```sh
 python3 gui.py
 ```
 
