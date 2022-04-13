@@ -80,7 +80,7 @@ my_gui = CAN_BUS_GUI(root)
 root.geometry("750x500")
 root.mainloop()
 
-# Clear Contents of Analyst 2 files for demo purposes
+# When you close the application this clears Contents of Analyst 2 files for demo purposes
 with open(os.getcwd()+"/Database/Analyst2/node_info.txt", 'r+') as f:
     f.truncate(0)
 
