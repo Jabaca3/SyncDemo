@@ -1,6 +1,9 @@
-Install Librarys
 
-For Linux you may need to disable key ring 
+
+!TRY RUNNING GUI before installing Librarys..!
+!Most Kali installations come with the librarys pre installed.!
+
+IF you are missing packages, please follow installation commands:
 
 ```sh
 python3 -m keyring --disable
