@@ -3,7 +3,7 @@ Install Librarys
 For Linux you may need to disable key ring 
 
 ```sh
-Python3 -m keyring --disable
+python3 -m keyring --disable
 ```
 ```sh
 pip install pillow
