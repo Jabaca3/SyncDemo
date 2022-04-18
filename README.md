@@ -41,4 +41,4 @@ The sync process is much easier than expected, it really is just coping over fil
 
 Images in GUI’s is actually kind of difficult, you must use different library’s such as PIL to set images appropriately this can be time costly when doing the          actual implementation of the software – JB
 
-This was a good prototype into determining what and how we are going to complete the GUI.
+This was a good prototype into determining what and how we are going to complete the GUI. -VH
