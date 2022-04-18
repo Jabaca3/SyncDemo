@@ -1,8 +1,8 @@
 
 ## Usage
 
-#TRY RUNNING GUI before installing Librarys!
-#!Most Kali installations come with the librarys pre installed!
+# TRY RUNNING GUI before installing Librarys!
+# !Most Kali installations come with the librarys pre installed!
 
 If you are missing packages, please follow installation commands:
 
@@ -33,13 +33,13 @@ python3 gui.py
 -JB
 
 
-##Functionality Implemented SYNC
+## Functionality Implemented SYNC
 We implemented a graphical User interface that has 2 users (Analyst 1, Analyst 2) where Analyst 1 holds file information and a picture of a fully implemented vehicle with nodes. Analyst 2 on the other hand has nothing (abscent file and empty vehicle). You can verify this buy pressing buttons Analyst_1 File and Analyst_2 file. Once you press the sync button the files essentially get copied over to Analyst 2 and his vehicle gets filled up with nodes. Closing the program will reset Analyst_2 files for demonstration purposes. -JB
 
-##Status
+## Status
 Current version is V1.0 - JB
 
-##What we learned
+## What we learned
 Creating a GUI is much easier than expected, using tools such as Tkinter - JB
 
 Creating a program that navigates directories in a Windows OS is much different than navigating in a Linux environment. -JB
